@@ -25,13 +25,11 @@ header p{margin:17px 0 0 0;text-shadow:#000 1px 1px 1px;color:#fff}
 .nav li:nth-child(3) a { color: #5e9eb4; text-shadow: 0 1px 0 #adddec; border-color: #a2cfde; background-color: #7ec9e3;}
 .nav li:nth-child(4) a { color: #ba9d5e; text-shadow: 0 1px 0 #f5e0ad; border-color: #dcc999; background-color: #f0cd78;}
 .nav li:nth-child(5) a { color: #b468a2; text-shadow: 0 1px 0 #e8acd8; border-color: #d8abcd; background-color: #dd91cb;}
-.nav li:nth-child(6) a { color: #b468a2; text-shadow: 0 1px 0 #e8acd8; border-color: #d8abcd; background-color: #dd91cb;}
 .nav li:nth-child(1):hover a { color: #0f775c; text-shadow: 0 1px 0 #81e6c9; border-color: #0a8462; background-color: #00c18c;}
 .nav li:nth-child(2):hover a { color: #b12a55; text-shadow: 0 1px 0 #ff95b7; border-color: #ba335c; background-color: #ea5180;}
 .nav li:nth-child(3):hover a { color: #2883a2; text-shadow: 0 1px 0 #9cdef2; border-color: #4397b3; background-color: #55c1e5;}
 .nav li:nth-child(4):hover a { color: #ab8228; text-shadow: 0 1px 0 #ffe199; border-color: #b08f3e; background-color: #f8c64d;}
 .nav li:nth-child(5):hover a { color: #a33689; text-shadow: 0 1px 0 #ec97d6; border-color: #b7569f; background-color: #dd70c3;}
-.nav li:nth-child(6):hover a { color: #a33689; text-shadow: 0 1px 0 #ec97d6; border-color: #b7569f; background-color: #dd70c3;}
 .nav span { display: block; line-height:100px; font-size: 24px; font-style: normal;}
 .nav span:before { display: block;}
 /* 动画效果 从底部开始平滑过渡 translate Y轴平移 scale 缩小0.5倍 */
