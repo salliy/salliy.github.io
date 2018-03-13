@@ -7,7 +7,7 @@ ul{ list-style-type:none}
 body{font-size:12px;background:#E3E3E5 url(../images/bg.jpg)  50% top scroll no-repeat;color:#5d5d5d; } 
 .blank{ height:5px; overflow:hidden; width:100%; margin:auto; clear:both}
 header{ padding:40px 0; width:1000px;  margin:auto; }
-header h1{ font-size:36px; text-shadow:#fff 1px 1px 1px; font-family:'Arizonia', cursive;} /* google åœ¨çº¿å­—ä½“ Arizonia */
+header h1{ font-size:36px; text-shadow:#fff 1px 1px 1px; font-family:'Arizonia', cursive;} /* google ÔÚÏß×ÖÌå Arizonia */
 header h1 a{color:#000;-webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s;}
 header h1 a:hover{ padding-left:20px}
 header p{margin:17px 0 0 0;text-shadow:#000 1px 1px 1px;color:#fff}
@@ -19,7 +19,7 @@ header p{margin:17px 0 0 0;text-shadow:#000 1px 1px 1px;color:#fff}
 .nav li:hover { z-index: 11; -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -o-transform: scale(1.1);-ms-transform: scale(1.1); transform: scale(1.1);}
 .nav li:hover a { text-decoration: none;}
 .nav li:hover span { -webkit-transition: all 0.4s linear; -moz-transition: all 0.4s linear; -o-transition: all 0.4s linear; -ms-transition: all 0.4s linear; transition: all 0.4s linear; -webkit-animation: moveFromBottom 0.3s ease; -moz-animation: moveFromBottom 0.3s ease; -o-animation: moveFromBottom 0.3s ease; -ms-animation: moveFromBottom 0.3s ease; animation: moveFromBottom 0.3s ease;}
-/* nth-child(1) è·å–nav li åˆ—è¡¨çš„ç¬¬ä¸€æ¡  */
+/* nth-child(1) »ñÈ¡nav li ÁĞ±íµÄµÚÒ»Ìõ  */
 .nav li:nth-child(1) a { color: #4d9683; text-shadow: 0 1px 0 #9de3cf; border-color: #549e89; background-color: #51c9a7;}
 .nav li:nth-child(2) a { color: #be607e; text-shadow: 0 1px 0 #de8ba5; border-color: #e499b0; background-color: #e67b9c;}
 .nav li:nth-child(3) a { color: #5e9eb4; text-shadow: 0 1px 0 #adddec; border-color: #a2cfde; background-color: #7ec9e3;}
@@ -32,7 +32,7 @@ header p{margin:17px 0 0 0;text-shadow:#000 1px 1px 1px;color:#fff}
 .nav li:nth-child(5):hover a { color: #a33689; text-shadow: 0 1px 0 #ec97d6; border-color: #b7569f; background-color: #dd70c3;}
 .nav span { display: block; line-height:100px; font-size: 24px; font-style: normal;}
 .nav span:before { display: block;}
-/* åŠ¨ç”»æ•ˆæœ ä»åº•éƒ¨å¼€å§‹å¹³æ»‘è¿‡æ¸¡ translate Yè½´å¹³ç§» scale ç¼©å°0.5å€ */
+/* ¶¯»­Ğ§¹û ´Óµ×²¿¿ªÊ¼Æ½»¬¹ı¶É translate YÖáÆ½ÒÆ scale ËõĞ¡0.5±¶ */
 @-webkit-keyframes moveFromBottom {
 	 from {  -webkit-transform: translateY(120%) scale(0.5) ; opacity: 0; } to { -webkit-transform: translateY(0%) scale(1); opacity: 1;}
 }
